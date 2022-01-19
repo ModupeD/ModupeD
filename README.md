@@ -4,4 +4,3 @@
 - 📫 How to reach: daniemu@mail.uc.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Jesus
--->
