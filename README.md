@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Modupeoluwa Daniel</h1>
-<h3 align="center">I am a Software Developer, focused on delivering strategic and meaningful user experiences. I love technology and it's my passion to solve tech-related problems. Apart from technology, I love people. I have awesome communication and people management skills. During my spare time, I like gaining knowledge about business and technology startups. I believe everyday is a good day to learn something new with opportunities to build better relationships!</h3>
+<h3 align="center">I am a Software Developer, focused on delivering strategic and meaningful user experiences</h3>
 
-- 🌱 I’m currently learning **Redux Java and python**
+- 🌱 I’m currently learning **Redux, Java and python**
 
 - 💬 Ask me about **React, Javascript, Nodejs**
 
