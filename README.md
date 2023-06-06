@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **Mobile App Development**
 
-- 💬 Ask me about **React, Javascript, Nodejs, python and Java **k
+- 💬 Ask me about **React, Javascript, Nodejs, python and Java **
 
 - 📫 How to reach me **daniemu@mail.uc.edu**
 
