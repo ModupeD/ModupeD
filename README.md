@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Modupeoluwa Daniel</h1>
 <h3 align="center">I am a Software Developer, focused on delivering strategic and meaningful user experiences</h3>
 
-- 🌱 I’m currently learning about **C#**
+- 🌱 I’m currently learning about **Web3**
 
 - 💬 Ask me about **React, Javascript, Nodejs, python and Mobile App Development **
 
