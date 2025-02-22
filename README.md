@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **Prisma**
 
-- 💬 Ask me about **React, Javascript, Nodejs, python and Mobile App Development **
+- 💬 Ask me about **React, Javascript, Nodejs, python and Mobile App Development**
 
 - 📫 How to reach me **daniemu@mail.uc.edu**
 
