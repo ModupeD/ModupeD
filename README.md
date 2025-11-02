@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Modupeoluwa Daniel</h1>
-<h3 align="center">I am a Software Developer, focused on delivering strategic and meaningful user experiences</h3>
+<h3 align="center">I am a  product driven Software Developer, focused on delivering financial software that enables users to make data driven decisons</h3>
 
 - 🌱 I’m currently learning about **Artificial Intelligence**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **daniemu@mail.uc.edu**
 
--  ⚡ Fun fact **I love Jesus**
+-  I love what I do and I am commited to growth
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
