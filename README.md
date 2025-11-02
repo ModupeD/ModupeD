@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Modupeoluwa Daniel</h1>
-<h3 align="center">I am a  product driven Software Developer, focused on delivering  software that enables users to make data driven decisons</h3>
+<h3 align="center">I am a product focused Software Developer, focused on delivering software that enables users to make data driven decisons</h3>
 
 - 🌱 I’m currently learning about **Artificial Intelligence**
 
