@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **daniemu@mail.uc.edu**
 
--  I love what I do and I am commited to growth
+-  I love Jesus
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
